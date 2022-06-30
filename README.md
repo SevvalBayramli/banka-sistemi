@@ -8,6 +8,7 @@ eylemler aşağıda belirtilmiştir. Tüm bu eylemlerin tasarlanan bir arayüz �
 gösterilmesi gerekmektedir.
 
 Sistemdeki Roller:
+![g4](https://user-images.githubusercontent.com/72937239/176694730-8424126b-79e6-435f-ad9c-81057c3b04bf.PNG)
 
 ● Müşteriler;
 
