@@ -6,9 +6,9 @@ herhangi bir para birimi cinsinden açılabilir (TL varsayılan olarak gelmelidi
 transferinde gerekli durumlarda kur dönüşümü otomatik olarak yapılmalıdır. Rollerin gerçekleştirdiği
 eylemler aşağıda belirtilmiştir. Tüm bu eylemlerin tasarlanan bir arayüz üzerinden görsel bir şekilde
 gösterilmesi gerekmektedir.
+![g1](https://user-images.githubusercontent.com/72937239/176695761-808a8517-048a-4384-8c32-825e2e255112.PNG)
 
 Sistemdeki Roller:
-![g4](https://user-images.githubusercontent.com/72937239/176694730-8424126b-79e6-435f-ad9c-81057c3b04bf.PNG)
 
 ● Müşteriler;
 
