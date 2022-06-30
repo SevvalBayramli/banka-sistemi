@@ -1,2 +1,0 @@
-# Banka-Sistemi
-push
