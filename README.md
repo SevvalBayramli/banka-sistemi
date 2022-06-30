@@ -6,6 +6,7 @@ herhangi bir para birimi cinsinden açılabilir (TL varsayılan olarak gelmelidi
 transferinde gerekli durumlarda kur dönüşümü otomatik olarak yapılmalıdır. Rollerin gerçekleştirdiği
 eylemler aşağıda belirtilmiştir. Tüm bu eylemlerin tasarlanan bir arayüz üzerinden görsel bir şekilde
 gösterilmesi gerekmektedir.
+
 ![g1](https://user-images.githubusercontent.com/72937239/176695761-808a8517-048a-4384-8c32-825e2e255112.PNG)
 
 Sistemdeki Roller:
@@ -35,6 +36,8 @@ tek seferde ödeyebilir)
 o Aylık özetlerini görüntüleyebilirler. (Geçerli ay içerisinde yaptığı para gönderme, çekme,
 kredi borcu ödeme gibi işlemlerin özeti)
 
+![g4](https://user-images.githubusercontent.com/72937239/176696838-b589eb61-3632-4da5-b130-8b738ef19870.PNG)![g5](https://user-images.githubusercontent.com/72937239/176697686-a2e92265-6635-4d13-b93f-faa57db4a8c0.PNG)
+
 ● Banka müdürü;
 
 o Bankanın genel durumunu (gelir, gider, kar ve toplam bakiye) görüntüleyebilmektedir.
@@ -55,6 +58,8 @@ o Bankada gerçekleşen tüm işlemleri (para çekme, yatırma ve transfer)
 görüntüleyebilmektedir.
 ▪ İşlemleri listelerken “son X adet işlemi listele” şeklinde bir seçenek sunulmalıdır.
 
+![g8](https://user-images.githubusercontent.com/72937239/176697099-3ff15f63-82a0-4463-90c8-371698b32145.PNG)
+
 ● Müşteri temsilcisi;
 
 o Her müşterinin bir temsilcisi vardır.
@@ -67,4 +72,11 @@ o Müşterilerden gelen hesap açma, silme ve kredi taleplerini görüntüleme v
 sorumluluğu temsilcilere aittir.
 o İlgilendikleri müşterilerin işlemlerini (para çekme, yatırma ve transfer)
 görüntüleyebilmektedir.
+
+![g2](https://user-images.githubusercontent.com/72937239/176696411-998e7d82-8fd9-464c-a3db-f05e1950d737.PNG) ![g3](https://user-images.githubusercontent.com/72937239/176696549-ad7e6e16-a831-4b2e-a9c5-8b0cafcfca2a.PNG)![g7](https://user-images.githubusercontent.com/72937239/176697807-07d54b08-5429-4862-a586-79bb4fafc877.PNG)
+
+
+
+
+
 
