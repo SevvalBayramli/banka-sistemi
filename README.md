@@ -3,9 +3,8 @@ Banka içerisinde müşteri, temsilci ve banka müdürü olmak üzere 3 adet rol
 çalışanlar için gerekli tanımlayıcı bilgiler (Ad Soyad, Telefon, TC No, Adres, E-posta) veri tabanında
 saklanmalıdır. Bir müşterinin birden fazla hesabı bulunabilir. Hesaplar sistem içerisinde kayıtlı bulunan
 herhangi bir para birimi cinsinden açılabilir (TL varsayılan olarak gelmelidir). Hesaplar arası para
-transferinde gerekli durumlarda kur dönüşümü otomatik olarak yapılmalıdır. Rollerin gerçekleştirdiği
-eylemler aşağıda belirtilmiştir. Tüm bu eylemlerin tasarlanan bir arayüz üzerinden görsel bir şekilde
-gösterilmesi gerekmektedir.
+transferinde gerekli durumlarda kur dönüşümü otomatik olarak yapılır. Rollerin gerçekleştirdiği
+eylemler aşağıda belirtilmiştir. 
 
 ![g1](https://user-images.githubusercontent.com/72937239/176695761-808a8517-048a-4384-8c32-825e2e255112.PNG)
 
